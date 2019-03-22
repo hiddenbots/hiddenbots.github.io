@@ -382,6 +382,7 @@ a:hover {
     color: white;
     cursor: pointer;
     text-transform: uppercase;
+    
 }
 
 .university a:hover{
@@ -391,5 +392,54 @@ a:hover {
 .university h6{
     margin-top: -25px;
     color: white;
-    font-style : stretch; 
+    font-style : stretch;
+    text-align: center; 
 }
+
+.university h3{
+    text-align: center;
+    font-weight: bold ;
+    color: white;
+}
+
+.university h3:nth-child(2n){
+    color: #eff27d;
+}
+
+.university ul{
+    list-style: none;
+    text-align: left;
+    margin-left: 100px;
+}
+
+.university ul li{
+    font-size: 10px;
+    margin-top :  -15px;
+    color :     white;
+    font-weight : 500;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
