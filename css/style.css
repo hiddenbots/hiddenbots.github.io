@@ -7,6 +7,7 @@
 
     1. IMPORT
     2. SKELETON
+    3. UNIVERSITY
     
 ------------------------------------------------------- */
 /* ----------------------------------------------------
@@ -368,4 +369,27 @@ a:hover {
 
 .navbar-inverse li.btn a {
     color: #ffffff !important;
+}
+
+
+/* UNIVERSITY */
+
+.university{
+    background: #777777;
+}
+
+.university a{
+    color: white;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+.university a:hover{
+    color: lightgrey;
+}
+
+.university h6{
+    margin-top: -25px;
+    color: white;
+    font-style : stretch; 
 }
